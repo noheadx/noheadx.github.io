@@ -1,2 +1,2 @@
-# noheadx.github.io
-That's just me writing about culture, technology and everything.
+# This is my blog!
+## There are many blogs like this, but this one is mine!
