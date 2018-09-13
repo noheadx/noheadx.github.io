@@ -1,4 +1,7 @@
-# How I imagine my ideal workplace - Pt. 2
+---
+title: How I imagine my ideal workplace - Pt. 2
+layout: post 
+---
 
 *_TL;DR_* A company’s mindset is defined by the way people work together, how they communicate and their view on their work / product. An attractive mindset for me would be that people follow the Agile Manifesto in their daily, have a honest, open and same-level kind of communication and they are proud of the product, their work and the company they are working for.
 
