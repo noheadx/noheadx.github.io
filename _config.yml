@@ -18,7 +18,7 @@ description: That's just me writing about culture, technology and everything.
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
