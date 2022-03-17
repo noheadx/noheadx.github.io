@@ -1,7 +1,10 @@
 ---
-title: The CTO trap
-layout: post 
+layout: default 
+title: "The CTO trap"
+category: Leadership
+date: 2022-03-15
 ---
+Walking the thin line between executive, tech lead and human being in a company.
 
 ## The Setup
 When you are a CTO, you got the "Technology "already in the title. You love tech, love digging into it, catching up with the latest technologies, knowing everything there is in tech – from hardware to software to IaaS/PaaS, architectures, and tests. You spend hours trying to find solutions, and secretly you envy your engineers because they can do that all day. 
