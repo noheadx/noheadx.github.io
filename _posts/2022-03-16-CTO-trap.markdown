@@ -1,11 +1,13 @@
 ---
-layout: default 
+layout: post 
 title: "The CTO trap"
 category: Leadership
 date: 2022-03-15
+excerpt_separator: <!--excerpt-end-->
 ---
-Walking the thin line between executive, tech lead and human being in a company.
 
+Walking the thin line between being an executive, tech lead and human being in a company.
+<!--excerpt-end-->
 ## The Setup
 When you are a CTO, you got the "Technology "already in the title. You love tech, love digging into it, catching up with the latest technologies, knowing everything there is in tech – from hardware to software to IaaS/PaaS, architectures, and tests. You spend hours trying to find solutions, and secretly you envy your engineers because they can do that all day. 
 If you are a little like me, you also feel the urge to use that skill to build something beyond mere features or products. You want to shape a company with it. Every CEO/Managing Director is happy to have somebody joining who takes care of that mysterious black box technology and at the same time understands the challenges of running a business.

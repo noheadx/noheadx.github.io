@@ -1,5 +1,5 @@
 ---
-title: How I imagine my ideal workplace - Pt. 1 "Vision"
+title: Create a vision
 layout: post 
 category: Workplace
 ---

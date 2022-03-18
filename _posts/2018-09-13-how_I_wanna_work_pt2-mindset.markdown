@@ -1,6 +1,6 @@
 ---
-title: How I imagine my ideal workplace - Pt. 2 "Mindset"
-layout: default 
+title: The power of the mind
+layout: post 
 category: Workplace
 ---
 

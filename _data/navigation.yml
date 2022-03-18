@@ -1,0 +1,6 @@
+staticnav:
+  - title: About me
+    subfolderitems:
+      - page: whoami
+        url: /aboutme/whoami/
+        summary: "Classical, boring about me section."
