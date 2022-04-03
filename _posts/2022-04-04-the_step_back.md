@@ -9,8 +9,7 @@ Why you should consider taking a career move that might look like a step back
 <!--excerpt-end-->
 ## The step back
 I recently took on a new position. Looking at my CV, I happen to do that every 2-3 years for different reasons...but that's another post.
-While I am writing this specific post is: after CTO'ing companies since 2015, I am taking on a role that some people might see as a step back.  \
-I'll start as a Director of Engineering.  \
+While I am writing this specific post is: after CTO'ing companies since 2015, I am taking on a role that some people might see as a step back: I'll start as a __Director of Engineering__.  \
 The quite obvious question is: why? For sure, it's not out of despair. The open positions for CTOs are vast; 10-20 companies alone have contacted me for a CTO role in the past months.  
 
 * The first reason is that I don't believe in the titles as motivation; it's neither a reward nor a recognition. You can put any golden tag on it, but it's about roles and responsibilities in the end. Every company has specific HR, accounting, sales, or IT duties. These responsibilities need to be filled by people with particular roles. Like on any movie set, you have actors, directors, make-up artists, screenwriters, costume designers, etc., and it's the fulfillment of every single role that makes a great outcome.
