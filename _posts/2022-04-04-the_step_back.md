@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "The step bacl"
+title: "The step back"
 category: Leadership
 date: 2022-04-03
 excerpt_separator: <!--excerpt-end-->
@@ -9,7 +9,7 @@ Why you should consider taking a career move that might look like a step back
 <!--excerpt-end-->
 ## The step back
 I recently took on a new position. Looking at my CV, I happen to do that every 2-3 years for different reasons...but that's another post.
-While I am writing this specific post is: after CTO'ing companies since 2015, I am taking on a role that some people might see as a step back.
+While I am writing this specific post is: after CTO'ing companies since 2015, I am taking on a role that some people might see as a step back.  
 I'll start as a Director of Engineering.
 The quite obvious question is: why? For sure, it's not out of despair. The open positions for CTOs are vast; 10-20 companies alone have contacted me for a CTO role in the past months.  
 
