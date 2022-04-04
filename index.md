@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: ""
+title: "The CTO trap"
 ---
 
 ![avatar]({{ site.url }}/assets/img/avatar.png){: style="width:50px;display: block;margin-left: auto;margin-right: auto;"}  
