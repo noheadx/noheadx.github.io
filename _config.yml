@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "TThe CTO trap"
+title: "The CTO trap"
 description: Tech traveller, manager, father, husband - adding another 2 cents to this world
 
 # Build settings
