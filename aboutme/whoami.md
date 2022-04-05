@@ -5,7 +5,7 @@ permalink: /aboutme/whoami/
 ---
 
 
-![Axel, the T-Shirt guy](/assets/img/avatar.png)
+![Axel, the T-Shirt guy](/assets/img/avatar.png?width=200px)
 ### *You are a fool if you just do as I say. You should think for yourself and come up with a better idea than mine!*
 
 ### Where I'coming from...
