@@ -5,7 +5,7 @@ permalink: /aboutme/whoami/
 ---
 
 
-![Axel, the T-Shirt guy](/assets/img/avatar.png?width=200px)
+![Axel, the T-Shirt guy](/assets/img/avatar.png?width=200pc)
 ### *You are a fool if you just do as I say. You should think for yourself and come up with a better idea than mine!*
 
 ### Where I'coming from...
@@ -27,5 +27,5 @@ permalink: /aboutme/whoami/
 - Christine Wodtke's "Radical Focus", a real eye-opener for why focus in a startup is important and how to create it
 - Sam Newman's "Building Microservices" which just describes how software should be built using common sense
 
-
+This infogrpahic by [Nigel Holmes](http://nigelholmes.com/) is perfect display of how I am trying to structure my thinking as a people's leader 
 ![Growth Mindset](/assets/img/growth-mindset.webp)
