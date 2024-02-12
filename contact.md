@@ -11,7 +11,7 @@ Information in accordance with Section 5 TMG:\
 Axel Schulz\
 Tannenallee 1\
 14621 Schoenwalde-Glien\
-Germany\
+Germany
 
 ## Contact information
 eMail: noheadx@noheadx.com\
