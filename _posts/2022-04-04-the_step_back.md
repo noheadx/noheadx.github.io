@@ -5,17 +5,23 @@ category: Leadership
 date: 2022-04-03
 excerpt_separator: <!--excerpt-end-->
 ---
-Why you should consider taking a career move that might look like a step back
+Taking a Step Back to Leap Forward: A Reflection on Career Choices
 <!--excerpt-end-->
-## The step back
-I recently took on a new position. Looking at my CV, I happen to do that every 2-3 years for different reasons...but that's another post.
-While I am writing this specific post is: after CTO'ing companies since 2015, I am taking on a role that some people might see as a step back: I'll start as a __Director of Engineering__.  \
-The quite obvious question is: why? For sure, it's not out of despair. The open positions for CTOs are vast; 10-20 companies alone have contacted me for a CTO role in the past months.  
 
-* The __first reason__ is that I don't believe in the titles as motivation; it's neither a reward nor a recognition. You can put any golden tag on it, but it's about roles and responsibilities in the end. Every company has specific HR, accounting, sales, or IT duties. These responsibilities need to be filled by people with particular roles. Like on any movie set, you have actors, directors, make-up artists, screenwriters, costume designers, etc., and it's the fulfillment of every single role that makes a great outcome.
-* The __second reason__ is that every company has a different understanding and interpretation of a role. I have seen companies that defined the CTO role strategically, separating all operational responsibilities like infrastructure and software engineering from it, with only architects and designers left. On the other hand, especially in startups, a CTO can be a hands-on engineer, hiring developers, negotiating MS Office contracts, ordering printers, and building a production infrastructure. While my personal interpretation leans towards the first, company size, time to market, and financial limitations may require a CTO of the latter. I have learned that it's the most important thing to me to stick to my beliefs which reduces the number of potential employers that agree with my view of the role.
-* The __third reason__ is the impact of the role. I still want to change the world. That is why I became involved in technology. If I see the chance to have a fundamental impact on an industry or people's life, I will take it. We have the luxury of earning money with something we'd be doing anyway. We know how to build software, organize work, and run a product on infrastructure. We should use that knowledge whenever we can to do good.
+## Taking a Step Back to Leap Forward: A Reflection on Career Choices
+In my recent professional journey, I find myself assuming a new position, a role that some might perceive as a step back – the position of a __Director of Engineering__. Glancing at my CV, one might observe a pattern of transitioning roles every 2-3 years, each shift motivated by distinct reasons, but that's a discussion for another post.
+Why this apparent downgrade, you might wonder? Certainly not out of desperation. The CTO job market is thriving, with numerous companies actively seeking individuals for such roles. Over the past months alone, I've been approached by 10-20 companies interested in hiring a CTO. So, what's the rationale behind this move?
 
-I am taking on a role that seems "beneath" me for the aforementioned reasons. Also, it's a review of my professional career so far. What have I learned in the past years? Can I align organizational change with technology more successfully when focussing on one part of it instead of the whole picture? <br>
-From experience, we know that focussing on one thing will make this thing happen - with the price of other things not happening. This is also known as prioritization. Whenever you're struggling with your workload, think of prioritization as a tool for structure. So I am applying that to my professional life while still being able to look at myself in the mirror every morning. <br> To make a step forward.
+### Reevaluating Titles and Motivation
+The _first and foremost reason_ is my belief in roles and responsibilities over mere titles. Regardless of the golden tags bestowed upon a position, it's the fulfillment of duties that genuinely matters. Much like a movie set, every organization requires a diverse set of roles – actors, directors, make-up artists, and more. The synergy of each role contributes to the overall success. Titles, for me, are not motivations or rewards; they are markers of specific responsibilities that need to be fulfilled.
 
+###Navigating Diverse Interpretations of Roles
+The _second reason_ stems from the diverse interpretations of roles across different companies. I've encountered companies that strategically define the CTO role, segregating operational responsibilities from it and leaving only architects and designers. Conversely, in startup environments, a CTO might be hands-on, engaged in tasks ranging from hiring developers to negotiating contracts and managing infrastructure. While my inclination aligns with the former, the varying demands of company size, time to market, and financial constraints might necessitate a CTO of the latter. Staying true to my beliefs narrows potential employers, but it's a conscious choice for alignment.
+
+###Prioritizing Impact
+The _third reason_ revolves around the impact of the role. Despite the shift, my innate desire to fundamentally impact industries or people's lives remains unwavering. The luxury of earning a living from something inherently enjoyable, like technology, should be harnessed to do good in the world. Changing the world remains a driving force behind my professional choices.
+Taking on a role that might seem "beneath" me is a deliberate move, part of a reflective review of my professional trajectory. It prompts questions about lessons learned and the effectiveness of aligning organizational change with technology when focusing on a specific facet rather than the entire spectrum.
+
+###The Power of Prioritization
+Drawing from experience, focusing on one aspect ensures its success but often at the expense of other priorities. Prioritization, a familiar concept in managing workloads, becomes a tool for structural clarity. In my professional life, this translates into a focused approach while maintaining the ability to face myself in the mirror every morning.
+This step back is not a regression but a strategic move – exploring whether concentrating on specific areas can yield more impactful results. It's a deliberate step to reassess, realign, and ultimately take a leap forward in the ever-evolving landscape of technology and leadership.
