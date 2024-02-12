@@ -1,4 +1,10 @@
 <footer class="inner">
-   <p><a href="/imprint/">Contact & Imprint</a> © 2022 </p>
+   <p><a href="/imprint/">Contact & Imprint</a> © <span id="currentYear"></span> </p>
+   <script>
+    document.addEventListener('DOMContentLoaded', function() {
+     var currentYear = new Date().getFullYear();
+     document.getElementById('currentYear').textContent = currentYear;
+    });
+    </script>
     <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
   </footer>
