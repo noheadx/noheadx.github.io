@@ -1,55 +1,30 @@
 ---
-title: Create a vision
 layout: post 
+title: Creating a vision
+date: 2018-08-15 
 category: Workplace
+excerpt_separator: <!--excerpt-end-->
 ---
 
 Why having a vision is the most important thing for a successful venture.
+<!--excerpt-end-->
 
-There are many ways to start a blog. Either write something brilliant and reflect on agile work or start with an article about the newest technology trends? Maybe later, I need to figure out what blog I want to write.
+# Creating a vision
+Welcome to my blog, The CTO trap, where I share my thoughts and insights on how I want to work in the modern world.\
+I started this blog because I am passionate about creating positive change through technology and innovation. I believe that work is more than just a way to earn money. It is a way to express ourselves, to create value, and to make a positive impact on the world. I also believe that work can be fun, fulfilling, and meaningful if we have a clear vision of what we want to achieve and how we want to achieve it.
+In this first post, I want to discuss the importance of having a vision for our work and career. A vision is a mental picture of the future we desire. It is not a goal, a plan, or a strategy. It is a dream, a purpose, or a cause. A vision is what motivates us, inspires us, and guides us. A vision is what makes us different from others and what makes us stand out.
+Why is having a vision vital?
+Having a vision is essential for several reasons. First, a vision gives us direction. It helps us to focus on what matters most and to avoid distractions and temptations. It helps us to prioritize our actions and to align them with our values and principles. It helps us make decisions and solve problems. It helps us to measure our progress and to celebrate our achievements.
+Second, a vision gives us meaning. It helps us to understand why we do what we do and how we contribute to something bigger than ourselves. It helps us to connect with our passion and our potential. It helps us to find joy and satisfaction in our work and to overcome challenges and setbacks. It helps us to grow and to learn.
+Third, a vision gives us influence. It helps us to communicate our ideas and our values to others. It helps us attract and inspire people who share our vision and want to join us. It helps us to create a culture and a community around our vision and to make a positive difference in the world.
+What are the results of lacking a vision?
+Lacking a vision can have negative consequences for our work and our careers. Without a vision, we may feel lost, confused, or bored. We may lack motivation, enthusiasm, or creativity. We may settle for less than we deserve or chase after things that don’t matter. We may waste our time, energy, and resources on activities that don’t align with our values and principles. We may miss opportunities or make mistakes that could have been avoided.
+We may feel isolated, frustrated, or unhappy without a vision. We may struggle to find meaning and purpose in our work and to connect with others who share our interests and goals. We may feel dissatisfied with our work and results and doubt ourselves and our abilities. We may lose confidence and credibility and fail to reach our full potential.
 
-I decided to start with some insights into how I think and what drove me to start this blog. 
-
-As developers, we earn money with what we'd be doing in our free time. I have never heard of a surgeon coming home and doing kidney transplantations after dinner because someone asked him to. As developers, we come home and set up a website on AWS, including CI/CD for our neighbor because we like doing that! It's what we always did. 
-
-I started working with computers when I hacked my AD&D, or Ultima save games, to make my party of heroes invincible or translate the game into German. With more or less success - but I loved it! 
-And this feeling is still an essential part of my work life - I need to love what I'm doing!
-
-So, what makes a workplace lovable for me?
-It's not the perks - I need a fast WiFi connection, and you can place me on a box or somewhere on the floor. I'll bring my food.
-
-The things that attract me the most in a company are:
-* The vision
-* The mindset 
-* The team
-* The product
- 
-## The vision
-
-As employees, we want to bring value to the company. We will be part of making decisions, creating strategies and roadmaps, or implementing new features.
-
-We need something that gives a common direction - like a northern star, something we can unite our efforts for - that is the vision.
-
-I believe that every one of us has a vision - deliberately or not - for our own lives, how we want to live, what we want to become in life. 
-
-Our visions keep us going; they make us get up early in the morning to start that hour-long commute to work, stay up late to prepare our kid's birthday party, or work through the weekends to finish that app you always wanted to build. Without a vision - that's my conviction - humanity will stop existing because there is nothing left to drive us forward.
-
-Like a human being, a company also needs something that defines its reason for existing, inspires its employees, and gives them guidance in their daily work. 
-Of course, any CEO will tell you that his company has a vision - but it's ok to admit that there is no vision yet as long as people work hard on finding it.
-
-A vision is larger than the company and its people. It's something people can look up to and say: Ok, today we're far away from that, but at least I know where this company is heading. I want to ask myself every day, "Did I contribute today to the company's vision?" and have a clear answer for myself.
-
-It's not a vision to say," We want to become #3 in the local market for selling auto parts." That's a goal—something you achieve to fulfill your vision.  
-When you're using OKR (which I highly recommend), you could use this goal as an objective and set some key results to measure if you have reached this goal, e.g., sales rate, revenue, or the number of customers. 
-
-A proper vision for the auto parts selling company could be "When our customers think of auto parts, they will think of us - anytime, anywhere." That's an unmeasurable statement, yet it articulates an idea everyone in the company understands - whether those persons work in accounting, sales, or development. 
-
-There is another thing about visions: people interpret them differently, and I even claim that they *must* be interpreted differently. My way of contributing to a company's vision is not necessarily how my colleagues contribute. But still, it gives us an idea of how we can help and support the company's success. 
-
-Because of its ubiquitous character, a vision is not a policy, nor is it a rule or an instruction of what to do - it's just that divine spark to start the fire. It's each employee's job to keep the flame burning by transforming the vision into something that can get executed - and the task of the management is to remind people of that constantly.
-
-If a company lacks a vision, people will start asking themselves, "What are we doing this for?" They will either leave or begin creating ideas of their own. It can tear a company apart if people no longer follow a joint north star but are driven by individual goals. 
-
-That's a scenario I have often seen in startups, where the investors have replaced the initial management team. The new CEO/COO/MD might know more about business models, revenue streams, and sales. But they are often beginning their new job without creating a vision of their own, causing the company to defocus or getting torn up in too many different projects - with bankruptcy as the end.
-
-I don't want that - I want to work in a company that either has a vision or is trying to create one, so I can contribute to that!
+How do you create and persist in a vision?
+Creating and persisting a vision is not easy but possible and rewarding. Here are some tips to help you with this process:
+Think significant and think long-term. Your vision should be ambitious and aspirational. It should reflect your dreams and your desires. It should challenge you and stretch you. It should also be realistic and attainable. It should be something that you can achieve within a reasonable timeframe, such as 5 to 10 years.
+Think positive and think inspiring. Your vision should be optimistic. It should reflect your strengths and your opportunities. It should energize you and excite you. It should also be compelling and captivating. It should be something that you can articulate and communicate to others clearly and concisely.
+Think personally and think unique. Your vision should be authentic and original. It should reflect your values and your principles. It should resonate with you and with your passion. It should also be distinctive and memorable. It should be something you can own, which sets you apart from others.
+Write it down and review it regularly. Your vision should be documented and visible. It should be written in a simple and powerful language. It should be concise and catchy. It should also be reviewed and revised regularly. It should be updated and adapted to reflect your changing circumstances and aspirations.
+I hope this post has given you some insights and ideas on creating and persisting a vision for your work and career. I will discuss translating your vision into goals and actions in the next post. Stay tuned, and thank you for reading.
