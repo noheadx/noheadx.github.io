@@ -14,5 +14,5 @@ Tannenallee 1\
 Germany
 
 ## Contact information
-eMail: noheadx@noheadx.com\
+eMail: noheadx [at] noheadx.com\
 Phone: +49 (0)3322 2969000
